@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877352019618",
+    "project_id": "flash-app-ef8e6",
+    "storage_bucket": "flash-app-ef8e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877352019618:android:92b6a74bb713109eb4d9fb",
+        "android_client_info": {
+          "package_name": "com.Pradumn_Garg.flash_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877352019618-1pprj9kjqb1e2kntltfr9b3cqi6mjlmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8kdsH6p3pyH1CTUbMeSn-Xdprv3U--9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877352019618-1pprj9kjqb1e2kntltfr9b3cqi6mjlmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
