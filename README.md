@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. It was build to understand how flutter can use firebase to login,register or fetch user data avaialbe in the cloud. Animations were also incorporated using dart packages and in-built controllers
 
 A few resources to get you started if this is your first Flutter project:
 
